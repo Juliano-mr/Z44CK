@@ -18,7 +18,7 @@ Back-end | Databases | Software Development
   <img align="center" alt="Z44CK-Windows" height="30" width="75" src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0" />
 </div>
 
-###
+##
 
 <div> 
   <a href="https://www.instagram.com/juliano.marangoni_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
