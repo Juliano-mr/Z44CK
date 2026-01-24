@@ -8,7 +8,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juliano-mr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true")](https://github.com/Z44CK/github-readme-stats)
 ##
 Back-end | Databases | Software Development
-<div style="display:https://github.com/Z44CK"><br>
+<div style="display:https://github.com/Juliano-mr"><br>
   <img align="center" alt="Juliano-mr-Python" height="30" width="70" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img align="center" alt="Juliano-mr-cplusplus" height="30" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img align="center" alt="Juliano-mr-Django" height="30" width="70" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
