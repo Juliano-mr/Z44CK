@@ -5,7 +5,6 @@
 - 🚀 FORMADO EM GESTÃO DA TECNOLOGIA DA INFORMAÇÃO.
 - 🚀 CURSANDO BACHARELADO EM ENGENHARIA DE SOFTWARE.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juliano-mr&show_icons=true&theme=dracula)
 
 ## Back-end | Databases | Software Development
 
